@@ -70,7 +70,7 @@ function isTimeInExamWindow(rangeStr, checkTimeStr) {
     const endTotal = toMinutes(endStr);
     const checkTotal = toMinutes(checkTimeStr);
 
-    const bufferStart = startTotal - 30;
+    const bufferStart = startTotal - 60;
     const bufferEnd = endTotal + 5;
 
     return checkTotal >= bufferStart && checkTotal <= bufferEnd;
