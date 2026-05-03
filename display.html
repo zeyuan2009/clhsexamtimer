@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CLHS Examination</title>
+    <script src="display.js" type="module" defer></script>
+    <link rel="stylesheet" href="display.css">
+</head>
+<body>
+    <h2 class="examTitle">CLHS Mid-Terms Examination 2026</h2>
+    <h1 id="subjectName" class="title">Mathematics Paper 1</h1>
+    <h2 id="subjectTime" class="subjecttime">8:45 a.m. - 10:15 a.m.</h2>
+    <h2 id="duration" class="duration">2 hours 30 minutes</h2>
+    <div class="time">
+        <div class="clock-wrapper">
+            <p class="label">Current Time</p>
+            <h1 id="clock" class="clock">00:00:00</h1>
+        </div>
+
+        <div class="clock-wrapper">
+            <p class="label" id="countdowntitle">Time until next paper</p>
+            <h1 id="countdown" class="clock">00:00:00</h1>
+        </div>
+    </div>
+    <button id="back" class="back" onclick="window.location.href = '/'">Back to Home</button>
+</body>
+</html>

@@ -1,0 +1,146 @@
+{
+    "F5": {
+        "20260416": {
+            "0745-1015": {
+                "subjectCode": "AM_2",
+                "subjectName": "Additional Mathematics 2",
+                "subjectDuration": "2 hours 30 minutes"
+            },
+            "1115-1330": {
+                "subjectCode": "CN_2",
+                "subjectName": "Bahasa Cina 2",
+                "subjectDuration": "2 hours 15 minutes"
+            }
+        },
+        "20260417": {
+            "0800-0845": {
+                "subjectCode": "UDBM",
+                "subjectName": "Ujian Mendengar BM",
+                "subjectDuration": "45 minutes"
+            },
+            "0915-1000": {
+                "subjectCode": "UDBI",
+                "subjectName": "Ujian Mendengar BI",
+                "subjectDuration": "45 minutes"
+            },
+            "1045-1215": {
+                "subjectCode": "EN_2",
+                "subjectName": "English 2",
+                "subjectDuration": "1 hour 30 minutes"
+            }
+        },
+        "20260420": {
+            "0815-1015": {
+                "subjectCode": "BM_1",
+                "subjectName": "Bahasa Melayu 1",
+                "subjectDuration": "2 hours"
+            },
+            "1100-1330": {
+                "subjectCode": "BM_2",
+                "subjectName": "Bahasa Melayu 2",
+                "subjectDuration": "2 hours 30 minutes"
+            }
+        },
+        "20260421": {
+            "0915-1015": {
+                "subjectCode": "SEJ_1",
+                "subjectName": "Sejarah 1",
+                "subjectDuration": "1 hour"
+            },
+            "1100-1330": {
+                "subjectCode": "SEJ_2",
+                "subjectName": "Sejarah 2",
+                "subjectDuration": "2 hours 30 minutes"
+            }
+        },
+        "20260422": {
+            "0745-1015": {
+                "subjectCode": "CHM_2",
+                "subjectName": "Chemistry 2/Science 2",
+                "subjectDuration": "2 hours 30 minutes"
+            },
+            "1100-1330": {
+                "subjectCode": "PM",
+                "subjectName": "Pendidikan Moral",
+                "subjectDuration": "2 hours 30 minutes"
+            }
+        },
+        "20260423": {
+            "0745-1015": {
+                "subjectCode": "MM_2",
+                "subjectName": "Mathematics 2",
+                "subjectDuration": "2 hours 30 minutes"
+            },
+            "1100-1330": {
+                "subjectCode": "BIO_2",
+                "subjectName": "Bio 2/Prinsip Akaun 2/SK",
+                "subjectDuration": "2 hours 30 minutes"
+            }
+        },
+        "20260424": {
+            "0745-1015": {
+                "subjectCode": "PHY_2",
+                "subjectName": "Physics 2",
+                "subjectDuration": "2 hours 30 minutes"
+            },
+            "0800-1015": {
+                "subjectCode": "EKO_2",
+                "subjectName": "Ekonomi 2",
+                "subjectDuration": "2 hours 15 minutes"
+            },
+            "1130-1215": {
+                "subjectCode": "PJPK",
+                "subjectName": "PJPK",
+                "subjectDuration": "45 minutes"
+            }
+        },
+        "20260427": {
+            "0815-1015": {
+                "subjectCode": "AM_1",
+                "subjectName": "Additional Mathematics 1",
+                "subjectDuration": "2 hours"
+            },
+            "1145-1330": {
+                "subjectCode": "BC_1",
+                "subjectName": "Bahasa Cina 1",
+                "subjectDuration": "1 hour 45 minutes"
+            }
+        },
+        "20260428": {
+            "0845-1015": {
+                "subjectCode": "EN_1",
+                "subjectName": "English 1",
+                "subjectDuration": "1 hour 30 minutes"
+            },
+            "1215-1330": {
+                "subjectCode": "PHY_1",
+                "subjectName": "Physics 1/Ekonomi 1",
+                "subjectDuration": "1 hour 15 minutes"
+            }
+        },
+        "20260430": {
+            "0730-0930": {
+                "subjectCode": "JER",
+                "subjectName": "Bahasa Jerman",
+                "subjectDuration": "2 hours"
+            },
+            "1215-1330": {
+                "subjectCode": "CHM_1",
+                "subjectName": "Chemistry 1/Science 1",
+                "subjectDuration": "1 hour 15 minutes"
+            }
+        },
+        "20260503": {
+            "0845-1015": {
+                "subjectCode": "MM_1",
+                "subjectName": "Mathematics Paper 1",
+                "subjectDuration": "1 hour 30 minutes"
+            },
+            "1215-1330": {
+                "subjectCode": "BIO_1",
+                "subjectName": "Biology Paper 1",
+                "subjectDuration": "1 hour 15 minutes"
+            }
+        }
+    }
+}
