@@ -127,7 +127,7 @@ function doWeHaveExamsNow() {
  * @param {Date} now
  */
 
-export function updateCountdown(examRange, now) {
+function updateCountdown(examRange, now) {
     const countdownElement = document.getElementById('countdown');
     const titleElement = document.getElementById('countdowntitle');
     if (!countdownElement || !titleElement || !examRange) return;
@@ -191,7 +191,7 @@ export function updateCountdown(examRange, now) {
 /**
  * @param {Date} now
  */
-export function updateMainClock(now) {
+function updateMainClock(now) {
     const clockElement = document.getElementById('clock');
     if (!clockElement) return;
 
