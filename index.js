@@ -35,7 +35,7 @@ function isTimeInExamWindow(rangeStr, checkTimeStr) {
     const checkTotal = toMinutes(checkTimeStr);
 
     // Apply the buffers
-    const bufferStart = startTotal - 30; // 30 mins before
+    const bufferStart = startTotal - 60; // 30 mins before
     const bufferEnd = endTotal + 5;     // 5 mins after
 
     // Final logical check
